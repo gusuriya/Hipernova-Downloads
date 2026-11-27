@@ -1,2 +1,2 @@
 # Hipernova-Downloads
-Instaladores oficiais do Hipernova para Windows.
+Instaladores oficiais do Hipernova
